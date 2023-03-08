@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "fuelCalculator",
+    "slug": "fuelCalculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
